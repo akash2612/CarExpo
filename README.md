@@ -7,4 +7,6 @@ The project was built using:
   2. CSS
   3. jQuery
   4. jQuery AJAX
-  5. JSON(used to store the data)
+  5. JSON(used to store the data)<br/>
+
+The entire products data is stored in json format. Using jQuery AJAX method the data is pulled from the json file and displayed to the user. You can switch between the two display modes either Grid or List.
